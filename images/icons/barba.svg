@@ -1,0 +1,4 @@
+<svg viewBox="0 0 32 32" aria-hidden="true" class="icon--barba">
+  <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-b"></use> -->
+  <use xlink:href="#barba-b"></use>
+</svg>
